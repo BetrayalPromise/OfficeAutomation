@@ -1,0 +1,15 @@
+C:\Users\Administrator.SC-201910061549\Desktop\OfficeAutomation\OfficeAutomation\bin\Debug\net6.0\OfficeAutomation.exe
+C:\Users\Administrator.SC-201910061549\Desktop\OfficeAutomation\OfficeAutomation\bin\Debug\net6.0\OfficeAutomation.deps.json
+C:\Users\Administrator.SC-201910061549\Desktop\OfficeAutomation\OfficeAutomation\bin\Debug\net6.0\OfficeAutomation.runtimeconfig.json
+C:\Users\Administrator.SC-201910061549\Desktop\OfficeAutomation\OfficeAutomation\bin\Debug\net6.0\OfficeAutomation.dll
+C:\Users\Administrator.SC-201910061549\Desktop\OfficeAutomation\OfficeAutomation\bin\Debug\net6.0\ref\OfficeAutomation.dll
+C:\Users\Administrator.SC-201910061549\Desktop\OfficeAutomation\OfficeAutomation\bin\Debug\net6.0\OfficeAutomation.pdb
+C:\Users\Administrator.SC-201910061549\Desktop\OfficeAutomation\OfficeAutomation\obj\Debug\net6.0\OfficeAutomation.csproj.AssemblyReference.cache
+C:\Users\Administrator.SC-201910061549\Desktop\OfficeAutomation\OfficeAutomation\obj\Debug\net6.0\OfficeAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator.SC-201910061549\Desktop\OfficeAutomation\OfficeAutomation\obj\Debug\net6.0\OfficeAutomation.AssemblyInfoInputs.cache
+C:\Users\Administrator.SC-201910061549\Desktop\OfficeAutomation\OfficeAutomation\obj\Debug\net6.0\OfficeAutomation.AssemblyInfo.cs
+C:\Users\Administrator.SC-201910061549\Desktop\OfficeAutomation\OfficeAutomation\obj\Debug\net6.0\OfficeAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.SC-201910061549\Desktop\OfficeAutomation\OfficeAutomation\obj\Debug\net6.0\OfficeAutomation.dll
+C:\Users\Administrator.SC-201910061549\Desktop\OfficeAutomation\OfficeAutomation\obj\Debug\net6.0\ref\OfficeAutomation.dll
+C:\Users\Administrator.SC-201910061549\Desktop\OfficeAutomation\OfficeAutomation\obj\Debug\net6.0\OfficeAutomation.pdb
+C:\Users\Administrator.SC-201910061549\Desktop\OfficeAutomation\OfficeAutomation\obj\Debug\net6.0\OfficeAutomation.genruntimeconfig.cache
